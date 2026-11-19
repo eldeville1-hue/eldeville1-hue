@@ -68,6 +68,14 @@ Rather than treating projects as static demos, I work on the full cycle: **requi
 
 I use AI-assisted tools as part of my development workflow and aim to validate, understand and document what I build. Feature claims and experimental results should be assessed against the accompanying code, tests and project documentation.
 
+## Für Ausbildungsbetriebe / German-language overview
+
+**Sie möchten meine Projekte für eine IT-Ausbildung kennenlernen?** Eine kompakte Übersicht auf Deutsch erklärt die drei öffentlichen Projekte, ihre Technologien und mögliche Fragen für ein technisches Gespräch.
+
+[**Projektportfolio auf Deutsch ansehen →**](docs/IT_AUSBILDUNG_PORTFOLIO_DE.md)
+
+---
+
 ## Current direction
 
 I'm building experience in **software engineering and applied data work**, while strengthening the foundations of mathematics, Python and computer science. I am especially interested in developing tools that make complex information easier to learn, explore and use.
