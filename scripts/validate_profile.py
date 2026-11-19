@@ -12,10 +12,10 @@ from xml.etree import ElementTree as ET
 ROOT = Path(__file__).resolve().parents[1]
 README = ROOT / "README.md"
 
-IMAGE_RE = re.compile(r'<img\\b[^>]*\\bsrc=["\\\']([^"\\\']+)["\\\']', re.I)
-MARKDOWN_LINK_RE = re.compile(r'\\[[^]]+\\]\\(([^)]+)\\)')
-HTML_ANCHOR_RE = re.compile(r'<a\\b[^>]*\\bhref=["\\\']([^"\\\']+)["\\\']', re.I)
-HEADING_RE = re.compile(r'^#{1,6}\\s+(.+)$', re.M)
+IMAGE_RE = re.compile(r'<img\b[^>]*\bsrc=["\\']([^"\\']+)["\\']', re.I)
+MARKDOWN_LINK_RE = re.compile(r'\[[^]]+\]\(([^)]+)\)')
+HTML_ANCHOR_RE = re.compile(r'<a\b[^>]*\bhref=["\\']([^"\\']+)["\\']', re.I)
+HEADING_RE = re.compile(r'^#{1,6}\s+(.+)$', re.M)
 
 
 def local_file(target: str) -> Path | None:
@@ -30,9 +30,9 @@ def local_file(target: str) -> Path | None:
 
 def heading_anchor(text: str) -> str:
     text = re.sub(r'<[^>]+>', '', text)
-    text = re.sub(r'\\[[^]]+\\]\\(([^)]+)\\)', '', text)
+    text = re.sub(r'\[[^]]+\]\(([^)]+)\)', '', text)
     text = text.lower()
-    text = re.sub(r'[^\\w\\- ]', '', text, flags=re.UNICODE)
+    text = re.sub(r'[^\w\- ]', '', text, flags=re.UNICODE)
     return text.replace(" ", "-")
 
 
