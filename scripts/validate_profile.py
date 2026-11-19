@@ -12,9 +12,9 @@ from xml.etree import ElementTree as ET
 ROOT = Path(__file__).resolve().parents[1]
 README = ROOT / "README.md"
 
-IMAGE_RE = re.compile(r'<img\b[^>]*\bsrc=["\\']([^"\\']+)["\\']', re.I)
+IMAGE_RE = re.compile(r'<img\b[^>]*\bsrc="([^"]+)"', re.I)
 MARKDOWN_LINK_RE = re.compile(r'\[[^]]+\]\(([^)]+)\)')
-HTML_ANCHOR_RE = re.compile(r'<a\b[^>]*\bhref=["\\']([^"\\']+)["\\']', re.I)
+HTML_ANCHOR_RE = re.compile(r'<a\b[^>]*\bhref="([^"]+)"', re.I)
 HEADING_RE = re.compile(r'^#{1,6}\s+(.+)$', re.M)
 
 
