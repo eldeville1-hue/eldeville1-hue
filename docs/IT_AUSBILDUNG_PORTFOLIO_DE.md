@@ -51,6 +51,10 @@
 
 Ich nutze auch KI-gestützte Entwicklungswerkzeuge. Dabei ist es mir wichtig, Änderungen anhand von Code, Tests und Dokumentation zu prüfen und technische Entscheidungen selbst erklären zu können.
 
+## Vertiefung: DeutschIQ technisch erklären
+
+Für die Vorbereitung auf ein Fachgespräch habe ich ein [**technisches Interview-Training mit Code-Verweisen und Übungen**](DEUTSCHIQ_TECHNICAL_INTERVIEW_DE.md) zusammengestellt. Es behandelt den Weg von React über HTTP zu FastAPI und PostgreSQL sowie Authentifizierung, Tests und einen fünfminütigen Projektvortrag.
+
 ## Fragen, auf die ich mich vorbereite
 
 1. **Wie funktioniert ein HTTP-Request?** Ich möchte erklären können, was Browser, API, Statuscode und JSON jeweils tun.
