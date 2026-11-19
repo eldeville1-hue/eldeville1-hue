@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" role="img" aria-labelledby="title description">
+<title id="title">Independent software and research portfolio</title>
+<desc id="description">Warm paper-colored editorial banner with dark typography and a geometric system of connected nodes.</desc>
+<rect width="1200" height="340" fill="#f4f1e9"/>
+<path d="M0 0h1200v9H0z" fill="#23343a"/>
+<path d="M66 59h1068M66 277h1068" fill="none" stroke="#c9cbc4" stroke-width="1"/>
+<text x="66" y="99" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="bold" letter-spacing="4" fill="#9c5756">SOFTWARE / DATA / INDEPENDENT STUDIES</text>
+<text x="61" y="178" font-family="Georgia,Times New Roman,serif" font-size="66" letter-spacing="-2" fill="#23343a">Building thoughtful</text>
+<text x="61" y="244" font-family="Georgia,Times New Roman,serif" font-size="66" letter-spacing="-2" fill="#23343a">digital systems.</text>
+<g stroke="#9c5756" stroke-width="1.5" fill="none">
+<circle cx="1009" cy="169" r="86"/>
+<circle cx="1009" cy="169" r="57"/>
+<path d="M923 169h172M1009 83v172M949 110l120 118M949 228l120-118"/>
+</g>
+<g fill="#9c5756"><circle cx="1009" cy="169" r="6"/><circle cx="949" cy="110" r="4"/><circle cx="1069" cy="228" r="4"/></g>
+<text x="66" y="312" font-family="Arial,Helvetica,sans-serif" font-size="13" letter-spacing="2" fill="#606d71">ELDEVILLE1-HUE / GITHUB PORTFOLIO</text>
+<text x="1134" y="312" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="13" letter-spacing="1.5" fill="#606d71">SELECTED WORKS / 2026</text>
+</svg>
