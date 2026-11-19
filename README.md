@@ -20,6 +20,8 @@
 ## Selected work
 
 ### 01 — [DeutschIQ](https://github.com/eldeville1-hue/deutschiq-ai-learning-platform)
+
+<img src="assets/project-deutschiq.svg" alt="DeutschIQ portfolio preview" width="100%">
 **Adaptive German-learning platform · Full-stack application**
 
 A Telegram Mini App bringing together language diagnostics, personalized practice, spaced review, progress tracking and AI-assisted feedback. Its engineering work spans frontend, API, persistent state, tests and deployment.
@@ -29,6 +31,8 @@ A Telegram Mini App bringing together language diagnostics, personalized practic
 [Explore the code](https://github.com/eldeville1-hue/deutschiq-ai-learning-platform) · [View the live application](https://deutschiq.onrender.com/) · [Read the case study](https://github.com/eldeville1-hue/deutschiq-ai-learning-platform/blob/main/docs/PORTFOLIO_CASE_STUDY.md)
 
 ### 02 — [CORPACIAO](https://github.com/eldeville1-hue/corpaciao)
+
+<img src="assets/project-corpaciao.svg" alt="CORPACIAO portfolio preview" width="100%">
 **Independent studies · Interactive web experiences**
 
 An evolving set of research-driven digital publications, including a night-sky atlas, a color-history experience and open research-methods materials. The repository also contains a separate Python workflow for auditing music metadata.
@@ -38,6 +42,8 @@ An evolving set of research-driven digital publications, including a night-sky a
 [Explore the collection](https://github.com/eldeville1-hue/corpaciao) · [Night Sky Atlas](https://github.com/eldeville1-hue/corpaciao/tree/main/night-sky-atlas) · [Dataset audit](https://github.com/eldeville1-hue/corpaciao/blob/main/audit_cohorts.py)
 
 ### 03 — [Deutsch Publishing Lab](https://github.com/eldeville1-hue/deutsch-publishing-lab)
+
+<img src="assets/project-workbook.svg" alt="Deutsch Publishing Lab portfolio preview" width="100%">
 **Educational publishing · Interactive workbook**
 
 An experimental German B1 learning workbook organized around applications, interviews and everyday communication during vocational training. Five chapters combine interactive tasks with browser-based progress tracking.

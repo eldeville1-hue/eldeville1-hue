@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+<title id="title">Deutsch für den Ausbildungsstart — interactive workbook</title>
+<desc id="desc">Calm editorial cover with dark-green lettering, subtle grid and a number five motif on warm ivory.</desc>
+<rect width="1200" height="330" fill="#f5f5f0"/>
+<path d="M0 0H1200V9H0Z" fill="#214937"/>
+<path d="M64 60H1136M64 266H1136" stroke="#ced9cd" stroke-width="1"/>
+<rect x="972" y="78" width="155" height="162" rx="2" fill="#e5ede5"/>
+<path d="M995 108H1103M995 138H1103M995 168H1103M995 198H1060" stroke="#a8bba9" stroke-width="2"/>
+<text x="1051" y="191" font-family="Georgia,serif" font-size="92" fill="#214937" text-anchor="middle">5</text>
+<text x="64" y="98" font-family="Arial,Helvetica,sans-serif" font-weight="bold" font-size="15" letter-spacing="4" fill="#567565">DEUTSCH PUBLISHING LAB / WEB-BETA</text>
+<text x="61" y="171" font-family="Georgia,Times New Roman,serif" font-size="63" fill="#1b2c25">Deutsch für den</text>
+<text x="61" y="235" font-family="Georgia,Times New Roman,serif" font-size="63" fill="#1b2c25">Ausbildungsstart</text>
+<text x="64" y="299" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="2" fill="#567565">INTERAKTIVES ARBEITSBUCH · NIVEAU B1</text>
+<text x="1136" y="299" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="1" fill="#567565">01—05</text>
+</svg>

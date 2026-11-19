@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<title id="title">CORPACIAO — independent studies</title>
+<desc id="desc">A minimalist editorial banner in ink, cream and muted red.</desc>
+<rect width="1200" height="320" fill="#f3f0e8"/>
+<path d="M0 0H1200V11H0Z" fill="#262b31"/>
+<path d="M72 62H1128" stroke="#bab7ae" stroke-width="1"/>
+<path d="M72 251H1128" stroke="#bab7ae" stroke-width="1"/>
+<circle cx="1029" cy="151" r="66" fill="none" stroke="#a15355" stroke-width="1.5"/>
+<circle cx="1029" cy="151" r="41" fill="none" stroke="#a15355" stroke-width="1"/>
+<path d="M931 151H1127M1029 53V249" stroke="#a15355" stroke-width="1" opacity=".6"/>
+<circle cx="1029" cy="151" r="5" fill="#a15355"/>
+<text x="72" y="103" font-family="Georgia,Times New Roman,serif" font-size="18" letter-spacing="5" fill="#a15355">INDEPENDENT STUDIES / 001</text>
+<text x="68" y="195" font-family="Georgia,Times New Roman,serif" font-size="78" letter-spacing="-3" fill="#262b31">CORPACIAO</text>
+<text x="72" y="229" font-family="Arial,sans-serif" font-size="15" letter-spacing="2.5" fill="#60656a">RESEARCH · DIGITAL CULTURE · INTERACTIVE DESIGN</text>
+<text x="72" y="282" font-family="Arial,sans-serif" font-size="12" letter-spacing="1.5" fill="#60656a">OPEN STUDIES</text>
+<text x="1128" y="282" text-anchor="end" font-family="Arial,sans-serif" font-size="12" letter-spacing="1.5" fill="#60656a">A PERSONAL PROJECT COLLECTION</text>
+</svg>
